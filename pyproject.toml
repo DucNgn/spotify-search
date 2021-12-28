@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "spotify"
+version = "0.1.0"
+description = "scs tryout with spotify api"
+authors = ["DukeNgn <triduc2311m@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.70.1"
+requests = "^2.26.0"
+uvicorn = "^0.16.0"
+dynaconf = "^3.1.7"
+python-dotenv = "^0.19.2"
+
+[tool.poetry.dev-dependencies]
+black = "^21.12b0"
+pre-commit = "^2.16.0"
+rich = "^10.16.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

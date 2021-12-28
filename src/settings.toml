@@ -1,0 +1,5 @@
+[APP]
+NAME="Spotify Search"
+HOST="0.0.0.0"
+PORT=8000
+VERSION="0.1.0"
