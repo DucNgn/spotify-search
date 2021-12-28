@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "spotify"
+name = "spotify-search"
 version = "0.1.0"
-description = "scs tryout with spotify api"
+description = "spotify api"
 authors = ["DukeNgn <triduc2311m@gmail.com>"]
 
 [tool.poetry.dependencies]
