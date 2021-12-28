@@ -1,6 +1,6 @@
 # Spotify Search API
 
-Simple Spotify API to for searching tracks
+Simple Spotify API for searching tracks
 
 ## Installation:
 First, create a new file `.secrets.toml` with the content:
